@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/WoZe-Clan?color=black&logo=github&label=Follow&style=for-the-badge)](https://github.com/WoZe-Clan)
-[![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.fr)](https://wozze.fr/)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.fr)](https://voxio.fr/profil)
 </div>
 
 
