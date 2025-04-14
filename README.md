@@ -1,124 +1,60 @@
-<div align="center">
-  
-### My name is Ilia  💻
-  
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/vue.js%20-%23323330.svg?&style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+# Hey, bienvenue dans mon petit coin sur le web ! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/WoZe-Clan?color=black&logo=github&label=Follow&style=for-the-badge)](https://github.com/WoZe-Clan)
-[![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.fr)](https://voxio.fr/profil)
-</div>
+Je suis un **Developer Full Stack**. J'accorde une grande importance à l'architecture web,
+ainsi qu'à l'écriture d'un code propre et maintenable. J'aime travailler avec les technologies de l'écosystème : **Javascript React Next.js**
 
 
-<h2>Langues utilisées</h2>
+---
 
-<div>
-<span class="progress">
-<span style="background-color: #f1e05a;width: 68.317%;" class="progress-item"></span><span style="background-color: #563d7c;width: 14.436%;" class="progress-item"></span><span style="background-color: #e34c26;width: 10.040%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.261%;" class="progress-item"></span><span style="background-color: #701516;width: 2.218%;" class="progress-item"></span><span style="background-color: #2b7489;width: 1.155%;" class="progress-item"></span><span style="background-color: #555555;width: 0.482%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.430%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.276%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.203%;" class="progress-item"></span><span style="background-color: #3A4E3A;width: 0.083%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.050%;" class="progress-item"></span><span style="background-color: #244776;width: 0.031%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.009%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.005%;" class="progress-item"></span><span style="background-color: #427819;width: 0.004%;" class="progress-item"></span>
-</span>
-</div>
+## 💡 Sur moi
 
-<ul>
+- 🔥 **Compétence:** HTML, CSS, JavaScript, PHP, ReactJs, NodeJs, MySQL
+-⚙️ **Spécialisations:** Développement d'applications Web, création de plugins, débogage système.
+- 🚀 **Passion:** Créer des expériences numériques interactives et conviviales et résoudre les problèmes de code pour garantir des performances robustes.
 
+---
 
-<li style="animation-delay: 0ms;">
-<svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
-  margin-right: 0.5ch;
-  vertical-align: top;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span style=" font-weight: 600;
-  margin-right: 4px;
-  color: rgb(36, 41, 46);">HTML</span>
-<span style="color: rgb(88, 96, 105)">80.32%</span>
-</li>
-
-<li style="animation-delay: 300ms;">
-  <svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
-  margin-right: 0.5ch;
-  vertical-align: top;"
-  viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-  fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-  <span style=" font-weight: 600;
-  margin-right: 4px;
-  color: rgb(36, 41, 46);">CSS</span>
-  <span class="percent">70.04%</span>
-  </li>
+# 🛠️ Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<li style="animation-delay: 150ms;">
-<svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
-  margin-right: 0.5ch;
-  vertical-align: top;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span style=" font-weight: 600;
-  margin-right: 4px;
-  color: rgb(36, 41, 46);">JavaScript</span>
-<span style="color: rgb(88, 96, 105)">50.44%</span>
-</li>
+---
 
-<li style="animation-delay: 2100ms;">
-  <svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
-  margin-right: 0.5ch;
-  vertical-align: top;"
-  viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-  fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-  <span style=" font-weight: 600;
-  margin-right: 4px;
-  color: rgb(36, 41, 46);">Vue.js</span>
-  <span style="color: rgb(88, 96, 105)">50.40%</span>
-  </li>
+## 🌟 Ce que je fais
 
+Je suis spécialisé en développement full-stack, avec une expertise en React.js, Next.js, et Node js. J'aime créer des applications web dynamiques et réactives offrant une excellente expérience utilisateur.
 
+---
 
+## 🤝 Restons connectés !
 
-<li style="animation-delay: 450ms;">
-<svg xmlns="http://www.w3.org/2000/svg" style="  fill: rgb(88, 96, 105);
-  margin-right: 0.5ch;
-  vertical-align: top;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span style=" font-weight: 600;
-  margin-right: 4px;
-  color: rgb(36, 41, 46);">Python</span>
-<span style="color: rgb(88, 96, 105)">10.26%</span>
-</li>
+Je suis toujours ravi d'échanger des idées et de collaborer sur des projets innovants.
+N'hésitez pas à me contacter :
 
+- 📧 **Email:** [iliach@outlook.fr](mailto:iliach@outlook.fr)
+- 🔗 **LinkedIn:** [Connectez-vous avec moi](https://www.linkedin.com/in/ilia-choumitzky/)
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WoZe-Dev/WoZe-Dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WoZe-Dev/WoZe-Dev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/WoZe-Dev/WoZe-Dev/output/github-snake.svg" />
+</picture>
 
-
-
-</ul>
-
-</div>
-</foreignObject>
-</g>
-</g>
-</svg>
-
-
-
-<details>
-  <summary>projects 1</summary>
-  
-<h2>Projet Vivacom</h2>
-
-  [![gestionmatos](https://user-images.githubusercontent.com/57033110/244007142-7ded70ac-002d-4638-b36d-5cda00d4a386.JPG)](https://github.com/gestionmatos/gestionmatos)
-  
-</details>
-
-<details>
-  <summary>projects 2</summary>
-  
-<h2>Projet e-commerce</h2>
-
-  [![e-commerce ](https://user-images.githubusercontent.com/57033110/199219843-e1fab2cf-1543-4692-aa1e-fba6cfe8548c.png)](https://github.com/la-musique-se-livre/e-commerce)
-
-</details>
+*Merci de votre visite sur mon profil ! Construisons quelque chose d'extraordinaire ensemble.* 🚀
