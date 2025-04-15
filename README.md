@@ -1,4 +1,4 @@
-# Hey, bienvenue dans mon petit coin sur le web ! 👋
+# Hey, bienvenue dans mon petit coin du web ! 👋
 
 Je suis un **Developer Full Stack**. J'accorde une grande importance à l'architecture web,
 ainsi qu'à l'écriture d'un code propre et maintenable. J'aime travailler avec les technologies de l'écosystème : **Javascript React Next.js**
